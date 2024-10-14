@@ -13,5 +13,5 @@ Bước 3: Tính các số Blum bằng cách lấy tích của các số nguyên
 3. Tìm các cặp số Blum có tổng là số Blum
 Bước 1: Khởi tạo một mảng lưu trữ các số Blum đã tìm được.
 Bước 2: Duyệt qua tất cả các cặp số Blum.
-Tính tổng của mỗi cặp và kiểm tra xem tổng đó có trong bảng số Blum không.
+Tính tổng của mỗi cặp và kiểm tra xem tổng đó có trong mảng không.
 4. Kiểm tra xem một số có phải là số Blum không
